@@ -1,5 +1,4 @@
 #### **Descriptions**
-- **`NTKH/`**: Includes scripts and modules specific to the project.
 - **`q4/`**: Holds resources or scripts related to Question 4 of the assessment.
 - **`q1.ipynb`**: Jupyter Notebook addressing Question 1.
 - **`q2.ipynb`**: Jupyter Notebook addressing Question 2.
